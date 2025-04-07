@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.pas,D:\Максим\Проект unfair world\Unit1.pas=D:\Максим\Проект unfair world\новая\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,D:\Максим\Проект unfair world\Unit1.dfm=C:\Users\MAX_admin\Documents\Borland Studio Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,D:\Максим\Проект unfair world\Unit1.dfm=D:\Максим\Проект unfair world\новая\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,D:\Максим\Проект unfair world\Unit1.pas=C:\Users\MAX_admin\Documents\Borland Studio Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.bdsproj,D:\Максим\Проект unfair world\Project1.bdsproj=C:\Users\MAX_admin\Documents\Borland Studio Projects\Project1.bdsproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,D:\Максим\Проект unfair world\новая\Unit1.pas=D:\Максим\Проект unfair world\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,D:\Максим\Проект unfair world\новая\Unit1.dfm=D:\Максим\Проект unfair world\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
